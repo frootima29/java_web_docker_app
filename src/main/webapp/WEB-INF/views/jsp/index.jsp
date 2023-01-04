@@ -41,7 +41,7 @@
 	<div class="row">
 		<div class="col-md-8">
 			<h2>Welcome To Docker..!!</h2>
-			<h3>Contact @ +91 - 9985296677 / 9985396677 </h3>
+			
 		</div>	
 	</div>
 
