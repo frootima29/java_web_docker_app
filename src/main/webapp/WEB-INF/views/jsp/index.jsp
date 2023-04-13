@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Docker..!!</h2>
+			<h2>Welcome To Praneetha..!!</h2>
 			
 		</div>	
 	</div>
